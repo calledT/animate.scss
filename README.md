@@ -1,12 +1,7 @@
 # Animate.scss
 
 This is a port of Dan Eden's [Animate.css](http://daneden.github.io/animate.css/) for SASS.
-
-## Doesn't this already exist somewhere else?
-
-Yes, there are plenty of other ports of this library. Many of them aren't very active projects and, honestly, I was just a little too lazy to submit my changes to those repositories.
-
-Also, I was looking for something a little more flexible. This version allows you to import all animations at a whopping 53kb or only import what you need. It's a flavor thing.
+This is fork from Geoff Graham's [animate.scss](https://github.com/geoffgraham/animate.scss), but generate vendor prefix by autoprefixer.you may use it if you also use task runners in your project.
 
 ## Installing
 

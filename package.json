@@ -1,15 +1,18 @@
 {
   "name": "animate.css-scss",
   "version": "3.2.0",
-  "repository": "https://github.com/geoffgraham/animate.scss",
+  "repository": "https://github.com/calledT/animate.scss",
   "authors": [
-    "geoffgraham <@geoffreygraham>"
+    "name": "Kimi",
+    "email": "huanggengtao@gmail.com"
   ],
-  "description": "A SASS port of Dan Eden's Animate.css",
+  "description": "A SCSS port of Dan Eden's Animate.css use with autoprefixer",
   "keywords": [
     "animate.scss",
     "animate.css",
-    "animate"
+    "animate",
+    "autoprefix",
+    "vendor"
   ],
   "devDependencies": {
     "gulp": "^3.8.10",

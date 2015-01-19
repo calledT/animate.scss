@@ -1,3 +1,4 @@
+'use strict';
 /*global require:true*/
 
 var gulp            = require('gulp');
