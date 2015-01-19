@@ -1,6 +1,5 @@
 # Animate.scss
 
-This is a port of Dan Eden's [Animate.css](http://daneden.github.io/animate.css/) for SASS.
 This is fork from Geoff Graham's [animate.scss](https://github.com/geoffgraham/animate.scss), but generate vendor prefix by autoprefixer.you may use it if you also use task runners in your project.
 
 ## Installing
